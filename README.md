@@ -100,17 +100,17 @@ Data Quality Gate is helpful for:
 * Product or business teams who depend on accurate numbers
 * Anyone tired of debugging data issues after reports are already live
 
-## Feedback & Contributions
+## 💬 Feedback & Suggestions
 
-The goal of Data Quality Gate is not perfection — it’s early clarity. 
+Data Quality Gate is shared publicly to learn from real-world use cases and improve it over time.
 
-* Upload a CSV. 
-* Review the risks. 
-* Fix problems before analytics begins. 
+If you’ve used the tool, I’d really appreciate your feedback — whether it’s something that worked well, something that felt confusing, or an idea that could make it more useful for you or your team.
 
-I’m sharing this publicly to learn from real-world use cases, exchange ideas with the data community, and evolve this into a more reliable data-quality checkpoint over time.
+👉 **Share feedback here:**  
+[Feedback Form – Data Quality Gate](https://forms.gle/ikA5X5Las5GGT5kBA)
 
-Try It, Share Feedback, Improve It. 
+Your input helps refine what matters most to people who work with data every day.
+ 
 
 
 ## 👤 Author
