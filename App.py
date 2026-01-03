@@ -295,7 +295,7 @@ if uploaded_file:
     st.download_button(
         "📄 Download Summary (PDF)",
         data=pdf,
-        file_name="csv_doctor_report.pdf",
+        file_name="data_auality_gate_report.pdf",
         mime="application/pdf"
     )
 
@@ -319,3 +319,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
