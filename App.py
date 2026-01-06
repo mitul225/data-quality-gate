@@ -142,7 +142,7 @@ if uploaded_file:
     c4.metric("Total Rows (Unique)", total_rows)
 
     # ---------------- DATE RANGE ----------------
-    st.markdown("### Date Range Profiler")
+    st.markdown("### Date Range Profiler (Format: YYYY-MM-DD)")
     date_cols = detect_date_columns(df)
 
     date_profile = None
@@ -319,4 +319,5 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
 
